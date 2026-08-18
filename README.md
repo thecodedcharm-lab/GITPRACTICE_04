@@ -1,2 +1,3 @@
 # GITPRACTICE_04
 this is a simple practice repo
+MADE FOR LEARING PR(PULL REQUEST)AND MERGE PR
